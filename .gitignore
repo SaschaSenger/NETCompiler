@@ -1,3 +1,6 @@
 #Ignore the Visual Studio Cache Files
 
 .vs/
+/NETCompilerPlayground/NETCompilerPlayground/bin/Debug/net6.0
+/NETCompilerPlayground/TestCompilerFeatures/bin/Debug/net6.0
+/NETCompilerPlayground/TestCompilerFeatures/obj
